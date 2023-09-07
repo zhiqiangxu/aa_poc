@@ -1,0 +1,6 @@
+// The program input for aa_poc/src/main.leo
+[transfer]
+user: scalar = 1u32;
+password: scalar = 2u32;
+to:address = aleo1axv6c4wuah0vaf9mccu2xcv72eup8ncd35v2j0mt3mnkwx04dg9s4r8888;
+amount:u128=10u128;
